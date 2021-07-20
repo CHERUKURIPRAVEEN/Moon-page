@@ -95,7 +95,7 @@
                 </div>
             </div>
         </div>
-        <!-- end header inner -->
+        <!--- end header inner -->
     </header>
     <!-- end header -->
     <section class="slider_section">
