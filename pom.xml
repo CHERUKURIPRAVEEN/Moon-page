@@ -4,8 +4,8 @@
   <groupId>JavaProject</groupId>
   <artifactId>javademoproject</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>javademoproject Maven Webapp</name>
+  <version>1</version>
+  <name>javasampleproject</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>MoonPageWebApp</finalName>
+    <finalName>javademoproject</finalName>
   </build>
 </project>
