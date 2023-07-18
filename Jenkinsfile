@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('BranchValidation') {
             steps{
-                echo "pipeling running in ${branch}"
+                echo "pipeling running in branch"
             }
         }
     }
