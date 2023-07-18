@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('checkout') {
             steps {
-                git credentialsId: 'Jenkins-Github-Admin', url: 'https://github.com/CHERUKURIPRAVEEN/MOONPAGE-PROJECT.git'
+                echo "pipeling running in ${branch}"  
             }
         }
         stage('BranchValidation') {
